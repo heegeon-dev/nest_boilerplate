@@ -1,0 +1,13 @@
+[
+  {
+    "name": "default",
+    "type": "mariadb",
+    "host": "season-dev.couxzb3vc1z3.ap-northeast-2.rds.amazonaws.com",
+    "port": 3306,
+    "username": "Mapsea",
+    "password": "100521mapsea$$$",
+    "database": "",
+    "synchronize": false,
+    "entities": ["entities/*.js"]
+  }
+]
